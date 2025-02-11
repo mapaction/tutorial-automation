@@ -1,5 +1,10 @@
 # Materiel utile pour le tutoriel Carte de vulnerability - automatisation
 
+  
+  <p align="center">
+<img src="vulnerabilite-automation.png" width="50%" >
+</p>
+
 
 
 
